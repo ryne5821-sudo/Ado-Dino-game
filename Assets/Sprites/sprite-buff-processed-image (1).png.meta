@@ -1,0 +1,1024 @@
+fileFormatVersion: 2
+guid: d74b8457832f14c46999db24e1530367
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4604396305355453455
+    second: sprite-buff-processed-image (1)_0
+  - first:
+      213: -566161791369203933
+    second: sprite-buff-processed-image (1)_1
+  - first:
+      213: 6492647441329297458
+    second: sprite-buff-processed-image (1)_2
+  - first:
+      213: 7538504772209341496
+    second: sprite-buff-processed-image (1)_3
+  - first:
+      213: -6206097730969129161
+    second: sprite-buff-processed-image (1)_4
+  - first:
+      213: 2400054766686499431
+    second: sprite-buff-processed-image (1)_5
+  - first:
+      213: -3471790828606548047
+    second: sprite-buff-processed-image (1)_6
+  - first:
+      213: -2514667738844160045
+    second: sprite-buff-processed-image (1)_7
+  - first:
+      213: 5762875951215991009
+    second: sprite-buff-processed-image (1)_8
+  - first:
+      213: 3483958277579534222
+    second: sprite-buff-processed-image (1)_9
+  - first:
+      213: -5078383618176124036
+    second: sprite-buff-processed-image (1)_10
+  - first:
+      213: -3368731989043413597
+    second: sprite-buff-processed-image (1)_11
+  - first:
+      213: -4071336172763329400
+    second: sprite-buff-processed-image (1)_12
+  - first:
+      213: 3454340015514959782
+    second: sprite-buff-processed-image (1)_13
+  - first:
+      213: -2558430816334392853
+    second: sprite-buff-processed-image (1)_14
+  - first:
+      213: 334932430681058952
+    second: sprite-buff-processed-image (1)_15
+  - first:
+      213: 7016589092717307026
+    second: sprite-buff-processed-image (1)_16
+  - first:
+      213: -3235719186517359335
+    second: sprite-buff-processed-image (1)_17
+  - first:
+      213: 6122153675332957705
+    second: sprite-buff-processed-image (1)_18
+  - first:
+      213: 6864475014294816432
+    second: sprite-buff-processed-image (1)_19
+  - first:
+      213: -2895913153607343032
+    second: sprite-buff-processed-image (1)_20
+  - first:
+      213: -4630939936993582419
+    second: sprite-buff-processed-image (1)_21
+  - first:
+      213: 2043112151127971197
+    second: sprite-buff-processed-image (1)_22
+  - first:
+      213: 2025691467813379563
+    second: sprite-buff-processed-image (1)_23
+  - first:
+      213: 5195074130270484161
+    second: sprite-buff-processed-image (1)_24
+  - first:
+      213: 3919066734372050790
+    second: sprite-buff-processed-image (1)_25
+  - first:
+      213: -1638079544057782412
+    second: sprite-buff-processed-image (1)_26
+  - first:
+      213: -3983235587745845192
+    second: sprite-buff-processed-image (1)_27
+  - first:
+      213: -4358265896915098528
+    second: sprite-buff-processed-image (1)_28
+  - first:
+      213: 6843886994915678066
+    second: sprite-buff-processed-image (1)_29
+  - first:
+      213: -176586654987160690
+    second: sprite-buff-processed-image (1)_30
+  - first:
+      213: 1751884441237937679
+    second: sprite-buff-processed-image (1)_31
+  - first:
+      213: -7873756146885466831
+    second: sprite-buff-processed-image (1)_32
+  - first:
+      213: -3770755280680030995
+    second: sprite-buff-processed-image (1)_33
+  - first:
+      213: -5454083999132211539
+    second: sprite-buff-processed-image (1)_34
+  - first:
+      213: 8353768049297682805
+    second: sprite-buff-processed-image (1)_35
+  - first:
+      213: -4657653664488370573
+    second: sprite-buff-processed-image (1)_36
+  - first:
+      213: -4679481714553209202
+    second: sprite-buff-processed-image (1)_37
+  - first:
+      213: 3587570345772723664
+    second: sprite-buff-processed-image (1)_38
+  - first:
+      213: -4539443808526695143
+    second: sprite-buff-processed-image (1)_39
+  - first:
+      213: -7242483168911585745
+    second: sprite-buff-processed-image (1)_40
+  - first:
+      213: -5155167487024357179
+    second: sprite-buff-processed-image (1)_41
+  - first:
+      213: -3393687835933853032
+    second: sprite-buff-processed-image (1)_42
+  - first:
+      213: -2046126380730512374
+    second: sprite-buff-processed-image (1)_43
+  - first:
+      213: -5598895407216424842
+    second: sprite-buff-processed-image (1)_44
+  - first:
+      213: -749644816104675152
+    second: sprite-buff-processed-image (1)_45
+  - first:
+      213: -8595723426746738578
+    second: sprite-buff-processed-image (1)_46
+  - first:
+      213: -8373415241504201134
+    second: sprite-buff-processed-image (1)_47
+  - first:
+      213: 3128856369929480704
+    second: sprite-buff-processed-image (1)_48
+  - first:
+      213: -1139638594112368862
+    second: sprite-buff-processed-image (1)_49
+  - first:
+      213: 7065827236285205694
+    second: sprite-buff-processed-image (1)_50
+  - first:
+      213: -1221310679987710810
+    second: sprite-buff-processed-image (1)_51
+  - first:
+      213: 9190632618035820162
+    second: sprite-buff-processed-image (1)_52
+  - first:
+      213: 498432880323195420
+    second: sprite-buff-processed-image (1)_53
+  - first:
+      213: -1950393903738883341
+    second: sprite-buff-processed-image (1)_54
+  - first:
+      213: 3786674168345898837
+    second: sprite-buff-processed-image (1)_55
+  - first:
+      213: -2415825076158873778
+    second: sprite-buff-processed-image (1)_56
+  - first:
+      213: 7978367056246746454
+    second: sprite-buff-processed-image (1)_57
+  - first:
+      213: 3124818698773032701
+    second: sprite-buff-processed-image (1)_58
+  - first:
+      213: -4489927179961496003
+    second: sprite-buff-processed-image (1)_59
+  - first:
+      213: 1689587579287835981
+    second: sprite-buff-processed-image (1)_60
+  - first:
+      213: -1677952391593679074
+    second: sprite-buff-processed-image (1)_61
+  - first:
+      213: -2526154397089754282
+    second: sprite-buff-processed-image (1)_62
+  - first:
+      213: 7858448929123602816
+    second: sprite-buff-processed-image (1)_63
+  - first:
+      213: 4966929200256704753
+    second: sprite-buff-processed-image (1)_64
+  - first:
+      213: 3871971182147908173
+    second: sprite-buff-processed-image (1)_65
+  - first:
+      213: -5319940102268017596
+    second: sprite-buff-processed-image (1)_66
+  - first:
+      213: 9124163864780892161
+    second: sprite-buff-processed-image (1)_67
+  - first:
+      213: -2728717917572101969
+    second: sprite-buff-processed-image (1)_68
+  - first:
+      213: 3088952275260314374
+    second: sprite-buff-processed-image (1)_69
+  - first:
+      213: -471141266627250931
+    second: sprite-buff-processed-image (1)_70
+  - first:
+      213: -6934931334380604774
+    second: sprite-buff-processed-image (1)_71
+  - first:
+      213: -7868500181023931459
+    second: sprite-buff-processed-image (1)_72
+  - first:
+      213: 2259956045858686912
+    second: sprite-buff-processed-image (1)_73
+  - first:
+      213: 3010219111540323215
+    second: sprite-buff-processed-image (1)_74
+  - first:
+      213: -495965710508069448
+    second: sprite-buff-processed-image (1)_75
+  - first:
+      213: -4963913021684360020
+    second: sprite-buff-processed-image (1)_76
+  - first:
+      213: -7053910280243950903
+    second: sprite-buff-processed-image (1)_77
+  - first:
+      213: 1775969897871288541
+    second: sprite-buff-processed-image (1)_78
+  - first:
+      213: 5398799048598443762
+    second: sprite-buff-processed-image (1)_79
+  - first:
+      213: 2061104171069531690
+    second: sprite-buff-processed-image (1)_80
+  - first:
+      213: 5709449446372524983
+    second: sprite-buff-processed-image (1)_81
+  - first:
+      213: -3525818753066198027
+    second: sprite-buff-processed-image (1)_82
+  - first:
+      213: 4142414503847820777
+    second: sprite-buff-processed-image (1)_83
+  - first:
+      213: -4689219554136475330
+    second: sprite-buff-processed-image (1)_84
+  - first:
+      213: 2859317325801328155
+    second: sprite-buff-processed-image (1)_85
+  - first:
+      213: -4077605633306387416
+    second: sprite-buff-processed-image (1)_86
+  - first:
+      213: -7987492318801374541
+    second: sprite-buff-processed-image (1)_87
+  - first:
+      213: 5624267165415183352
+    second: sprite-buff-processed-image (1)_88
+  - first:
+      213: -6020848656997510132
+    second: sprite-buff-processed-image (1)_89
+  - first:
+      213: -2046597042658771169
+    second: sprite-buff-processed-image (1)_90
+  - first:
+      213: 3713778194405746239
+    second: sprite-buff-processed-image (1)_91
+  - first:
+      213: -3816440728780644590
+    second: sprite-buff-processed-image (1)_92
+  - first:
+      213: -3143554691974387564
+    second: sprite-buff-processed-image (1)_93
+  - first:
+      213: 6187363564242572848
+    second: sprite-buff-processed-image (1)_94
+  - first:
+      213: 8805375635289992995
+    second: sprite-buff-processed-image (1)_95
+  - first:
+      213: 2815034643526998528
+    second: sprite-buff-processed-image (1)_96
+  - first:
+      213: -6388507730442287110
+    second: sprite-buff-processed-image (1)_97
+  - first:
+      213: 3839772822721684569
+    second: sprite-buff-processed-image (1)_98
+  - first:
+      213: 4787561665039688408
+    second: sprite-buff-processed-image (1)_99
+  - first:
+      213: 5412995482985860097
+    second: sprite-buff-processed-image (1)_100
+  - first:
+      213: -389415991132182553
+    second: sprite-buff-processed-image (1)_101
+  - first:
+      213: -2371472719785815997
+    second: sprite-buff-processed-image (1)_102
+  - first:
+      213: 1391406326117505751
+    second: sprite-buff-processed-image (1)_103
+  - first:
+      213: -7594860693172241695
+    second: sprite-buff-processed-image (1)_104
+  - first:
+      213: -5184001592145898725
+    second: sprite-buff-processed-image (1)_105
+  - first:
+      213: 4289737921183108515
+    second: sprite-buff-processed-image (1)_106
+  - first:
+      213: -403839397104010579
+    second: sprite-buff-processed-image (1)_107
+  - first:
+      213: -7164761748123227773
+    second: sprite-buff-processed-image (1)_108
+  - first:
+      213: -3731953802953131266
+    second: sprite-buff-processed-image (1)_109
+  - first:
+      213: 6675871226524631487
+    second: sprite-buff-processed-image (1)_110
+  - first:
+      213: -2804794519218431531
+    second: sprite-buff-processed-image (1)_111
+  - first:
+      213: -7293337316302299992
+    second: sprite-buff-processed-image (1)_112
+  - first:
+      213: 8810632271726838759
+    second: sprite-buff-processed-image (1)_113
+  - first:
+      213: -4866412834488597789
+    second: sprite-buff-processed-image (1)_114
+  - first:
+      213: -8539068233726418784
+    second: sprite-buff-processed-image (1)_115
+  - first:
+      213: -4925088872511440086
+    second: sprite-buff-processed-image (1)_116
+  - first:
+      213: 5332929431677577291
+    second: sprite-buff-processed-image (1)_117
+  - first:
+      213: -8696752903054014465
+    second: sprite-buff-processed-image (1)_118
+  - first:
+      213: 2637337729331281599
+    second: sprite-buff-processed-image (1)_119
+  - first:
+      213: -688550090047454892
+    second: sprite-buff-processed-image (1)_120
+  - first:
+      213: -6831245174799031575
+    second: sprite-buff-processed-image (1)_121
+  - first:
+      213: -5761017999132551207
+    second: sprite-buff-processed-image (1)_122
+  - first:
+      213: -9126156541421181281
+    second: sprite-buff-processed-image (1)_123
+  - first:
+      213: 5373876039696868384
+    second: sprite-buff-processed-image (1)_124
+  - first:
+      213: -8970176106168700159
+    second: sprite-buff-processed-image (1)_125
+  - first:
+      213: 302420644990550163
+    second: sprite-buff-processed-image (1)_126
+  - first:
+      213: 1153281950312403517
+    second: sprite-buff-processed-image (1)_127
+  - first:
+      213: -6480712913179654079
+    second: sprite-buff-processed-image (1)_128
+  - first:
+      213: -2257573536575341637
+    second: sprite-buff-processed-image (1)_129
+  - first:
+      213: -5396047260963543207
+    second: sprite-buff-processed-image (1)_130
+  - first:
+      213: -980373188253678095
+    second: sprite-buff-processed-image (1)_131
+  - first:
+      213: 8882665777897726888
+    second: sprite-buff-processed-image (1)_132
+  - first:
+      213: 7751918354386581222
+    second: sprite-buff-processed-image (1)_133
+  - first:
+      213: 5646588360412483760
+    second: sprite-buff-processed-image (1)_134
+  - first:
+      213: 3751311691419616289
+    second: sprite-buff-processed-image (1)_135
+  - first:
+      213: -3631558336827310568
+    second: sprite-buff-processed-image (1)_136
+  - first:
+      213: 1078787164446829591
+    second: sprite-buff-processed-image (1)_137
+  - first:
+      213: -3317507504286384946
+    second: sprite-buff-processed-image (1)_138
+  - first:
+      213: -8610909161702628219
+    second: sprite-buff-processed-image (1)_139
+  - first:
+      213: 1471223965760858473
+    second: sprite-buff-processed-image (1)_140
+  - first:
+      213: 133157714757050631
+    second: sprite-buff-processed-image (1)_141
+  - first:
+      213: -3529693047508124203
+    second: sprite-buff-processed-image (1)_142
+  - first:
+      213: 7922479398777481800
+    second: sprite-buff-processed-image (1)_143
+  - first:
+      213: -7189037447665301798
+    second: sprite-buff-processed-image (1)_144
+  - first:
+      213: -7793064004301669191
+    second: sprite-buff-processed-image (1)_145
+  - first:
+      213: 2142313014874289999
+    second: sprite-buff-processed-image (1)_146
+  - first:
+      213: -1570915488010933308
+    second: sprite-buff-processed-image (1)_147
+  - first:
+      213: 6640449703427232401
+    second: sprite-buff-processed-image (1)_148
+  - first:
+      213: -6768430331581210085
+    second: sprite-buff-processed-image (1)_149
+  - first:
+      213: -4463145749917153962
+    second: sprite-buff-processed-image (1)_150
+  - first:
+      213: -6579358036703561422
+    second: sprite-buff-processed-image (1)_151
+  - first:
+      213: 5411002296011754248
+    second: sprite-buff-processed-image (1)_152
+  - first:
+      213: 5975309549828782190
+    second: sprite-buff-processed-image (1)_153
+  - first:
+      213: 2721257568791306286
+    second: sprite-buff-processed-image (1)_154
+  - first:
+      213: 905421815278554042
+    second: sprite-buff-processed-image (1)_155
+  - first:
+      213: 5850223426118099101
+    second: sprite-buff-processed-image (1)_156
+  - first:
+      213: 5056277646470736165
+    second: sprite-buff-processed-image (1)_157
+  - first:
+      213: 3269448121583403613
+    second: sprite-buff-processed-image (1)_158
+  - first:
+      213: -5621519463733726123
+    second: sprite-buff-processed-image (1)_159
+  - first:
+      213: -2026481950947930665
+    second: sprite-buff-processed-image (1)_160
+  - first:
+      213: 5830592203465116093
+    second: sprite-buff-processed-image (1)_161
+  - first:
+      213: 4305675788383531941
+    second: sprite-buff-processed-image (1)_162
+  - first:
+      213: -2805659047284853748
+    second: sprite-buff-processed-image (1)_163
+  - first:
+      213: 3852386612146407176
+    second: sprite-buff-processed-image (1)_164
+  - first:
+      213: -9103727320284907694
+    second: sprite-buff-processed-image (1)_165
+  - first:
+      213: -2364116187814408640
+    second: sprite-buff-processed-image (1)_166
+  - first:
+      213: -7829531497725297688
+    second: sprite-buff-processed-image (1)_167
+  - first:
+      213: 4823496756114215157
+    second: sprite-buff-processed-image (1)_168
+  - first:
+      213: -5440205070314217302
+    second: sprite-buff-processed-image (1)_169
+  - first:
+      213: 1898238004673808360
+    second: sprite-buff-processed-image (1)_170
+  - first:
+      213: 2282390626883385910
+    second: sprite-buff-processed-image (1)_171
+  - first:
+      213: 7629506891285923965
+    second: sprite-buff-processed-image (1)_172
+  - first:
+      213: -6377831521982027397
+    second: sprite-buff-processed-image (1)_173
+  - first:
+      213: -2472925544306252360
+    second: sprite-buff-processed-image (1)_174
+  - first:
+      213: -579194923050930755
+    second: sprite-buff-processed-image (1)_175
+  - first:
+      213: -7868603194055685865
+    second: sprite-buff-processed-image (1)_176
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-buff-processed-image (1)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 702
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0435d96b0a16ef30800000000000000
+      internalID: 4604396305355453455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-buff-processed-image (1)_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 702
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f2a04b9d69428f0800000000000000
+      internalID: -566161791369203933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-buff-processed-image (1)_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 702
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2381848c2748a1a50800000000000000
+      internalID: 6492647441329297458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-buff-processed-image (1)_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 702
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834ff1d46262e9860800000000000000
+      internalID: 7538504772209341496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-buff-processed-image (1)_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 702
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f2a38bef28fd9a0800000000000000
+      internalID: -6206097730969129161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-buff-processed-image (1)_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 702
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762f4d12815be4120800000000000000
+      internalID: 2400054766686499431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-buff-processed-image (1)_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 704
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7927eb2a8b1dfc0800000000000000
+      internalID: -3471790828606548047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-buff-processed-image (1)_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 702
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df1f0ac30b1a1dd0800000000000000
+      internalID: -2514667738844160045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-buff-processed-image (1)_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 702
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8ded40529d9ff40800000000000000
+      internalID: 5762875951215991009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1b77ff5f2e152534796b7a1cd54467ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite-buff-processed-image (1)_0: 4604396305355453455
+      sprite-buff-processed-image (1)_1: -566161791369203933
+      sprite-buff-processed-image (1)_10: -5078383618176124036
+      sprite-buff-processed-image (1)_100: 5412995482985860097
+      sprite-buff-processed-image (1)_101: -389415991132182553
+      sprite-buff-processed-image (1)_102: -2371472719785815997
+      sprite-buff-processed-image (1)_103: 1391406326117505751
+      sprite-buff-processed-image (1)_104: -7594860693172241695
+      sprite-buff-processed-image (1)_105: -5184001592145898725
+      sprite-buff-processed-image (1)_106: 4289737921183108515
+      sprite-buff-processed-image (1)_107: -403839397104010579
+      sprite-buff-processed-image (1)_108: -7164761748123227773
+      sprite-buff-processed-image (1)_109: -3731953802953131266
+      sprite-buff-processed-image (1)_11: -3368731989043413597
+      sprite-buff-processed-image (1)_110: 6675871226524631487
+      sprite-buff-processed-image (1)_111: -2804794519218431531
+      sprite-buff-processed-image (1)_112: -7293337316302299992
+      sprite-buff-processed-image (1)_113: 8810632271726838759
+      sprite-buff-processed-image (1)_114: -4866412834488597789
+      sprite-buff-processed-image (1)_115: -8539068233726418784
+      sprite-buff-processed-image (1)_116: -4925088872511440086
+      sprite-buff-processed-image (1)_117: 5332929431677577291
+      sprite-buff-processed-image (1)_118: -8696752903054014465
+      sprite-buff-processed-image (1)_119: 2637337729331281599
+      sprite-buff-processed-image (1)_12: -4071336172763329400
+      sprite-buff-processed-image (1)_120: -688550090047454892
+      sprite-buff-processed-image (1)_121: -6831245174799031575
+      sprite-buff-processed-image (1)_122: -5761017999132551207
+      sprite-buff-processed-image (1)_123: -9126156541421181281
+      sprite-buff-processed-image (1)_124: 5373876039696868384
+      sprite-buff-processed-image (1)_125: -8970176106168700159
+      sprite-buff-processed-image (1)_126: 302420644990550163
+      sprite-buff-processed-image (1)_127: 1153281950312403517
+      sprite-buff-processed-image (1)_128: -6480712913179654079
+      sprite-buff-processed-image (1)_129: -2257573536575341637
+      sprite-buff-processed-image (1)_13: 3454340015514959782
+      sprite-buff-processed-image (1)_130: -5396047260963543207
+      sprite-buff-processed-image (1)_131: -980373188253678095
+      sprite-buff-processed-image (1)_132: 8882665777897726888
+      sprite-buff-processed-image (1)_133: 7751918354386581222
+      sprite-buff-processed-image (1)_134: 5646588360412483760
+      sprite-buff-processed-image (1)_135: 3751311691419616289
+      sprite-buff-processed-image (1)_136: -3631558336827310568
+      sprite-buff-processed-image (1)_137: 1078787164446829591
+      sprite-buff-processed-image (1)_138: -3317507504286384946
+      sprite-buff-processed-image (1)_139: -8610909161702628219
+      sprite-buff-processed-image (1)_14: -2558430816334392853
+      sprite-buff-processed-image (1)_140: 1471223965760858473
+      sprite-buff-processed-image (1)_141: 133157714757050631
+      sprite-buff-processed-image (1)_142: -3529693047508124203
+      sprite-buff-processed-image (1)_143: 7922479398777481800
+      sprite-buff-processed-image (1)_144: -7189037447665301798
+      sprite-buff-processed-image (1)_145: -7793064004301669191
+      sprite-buff-processed-image (1)_146: 2142313014874289999
+      sprite-buff-processed-image (1)_147: -1570915488010933308
+      sprite-buff-processed-image (1)_148: 6640449703427232401
+      sprite-buff-processed-image (1)_149: -6768430331581210085
+      sprite-buff-processed-image (1)_15: 334932430681058952
+      sprite-buff-processed-image (1)_150: -4463145749917153962
+      sprite-buff-processed-image (1)_151: -6579358036703561422
+      sprite-buff-processed-image (1)_152: 5411002296011754248
+      sprite-buff-processed-image (1)_153: 5975309549828782190
+      sprite-buff-processed-image (1)_154: 2721257568791306286
+      sprite-buff-processed-image (1)_155: 905421815278554042
+      sprite-buff-processed-image (1)_156: 5850223426118099101
+      sprite-buff-processed-image (1)_157: 5056277646470736165
+      sprite-buff-processed-image (1)_158: 3269448121583403613
+      sprite-buff-processed-image (1)_159: -5621519463733726123
+      sprite-buff-processed-image (1)_16: 7016589092717307026
+      sprite-buff-processed-image (1)_160: -2026481950947930665
+      sprite-buff-processed-image (1)_161: 5830592203465116093
+      sprite-buff-processed-image (1)_162: 4305675788383531941
+      sprite-buff-processed-image (1)_163: -2805659047284853748
+      sprite-buff-processed-image (1)_164: 3852386612146407176
+      sprite-buff-processed-image (1)_165: -9103727320284907694
+      sprite-buff-processed-image (1)_166: -2364116187814408640
+      sprite-buff-processed-image (1)_167: -7829531497725297688
+      sprite-buff-processed-image (1)_168: 4823496756114215157
+      sprite-buff-processed-image (1)_169: -5440205070314217302
+      sprite-buff-processed-image (1)_17: -3235719186517359335
+      sprite-buff-processed-image (1)_170: 1898238004673808360
+      sprite-buff-processed-image (1)_171: 2282390626883385910
+      sprite-buff-processed-image (1)_172: 7629506891285923965
+      sprite-buff-processed-image (1)_173: -6377831521982027397
+      sprite-buff-processed-image (1)_174: -2472925544306252360
+      sprite-buff-processed-image (1)_175: -579194923050930755
+      sprite-buff-processed-image (1)_176: -7868603194055685865
+      sprite-buff-processed-image (1)_177: 1186115971
+      sprite-buff-processed-image (1)_18: 6122153675332957705
+      sprite-buff-processed-image (1)_19: 6864475014294816432
+      sprite-buff-processed-image (1)_2: 6492647441329297458
+      sprite-buff-processed-image (1)_20: -2895913153607343032
+      sprite-buff-processed-image (1)_21: -4630939936993582419
+      sprite-buff-processed-image (1)_22: 2043112151127971197
+      sprite-buff-processed-image (1)_23: 2025691467813379563
+      sprite-buff-processed-image (1)_24: 5195074130270484161
+      sprite-buff-processed-image (1)_25: 3919066734372050790
+      sprite-buff-processed-image (1)_26: -1638079544057782412
+      sprite-buff-processed-image (1)_27: -3983235587745845192
+      sprite-buff-processed-image (1)_28: -4358265896915098528
+      sprite-buff-processed-image (1)_29: 6843886994915678066
+      sprite-buff-processed-image (1)_3: 7538504772209341496
+      sprite-buff-processed-image (1)_30: -176586654987160690
+      sprite-buff-processed-image (1)_31: 1751884441237937679
+      sprite-buff-processed-image (1)_32: -7873756146885466831
+      sprite-buff-processed-image (1)_33: -3770755280680030995
+      sprite-buff-processed-image (1)_34: -5454083999132211539
+      sprite-buff-processed-image (1)_35: 8353768049297682805
+      sprite-buff-processed-image (1)_36: -4657653664488370573
+      sprite-buff-processed-image (1)_37: -4679481714553209202
+      sprite-buff-processed-image (1)_38: 3587570345772723664
+      sprite-buff-processed-image (1)_39: -4539443808526695143
+      sprite-buff-processed-image (1)_4: -6206097730969129161
+      sprite-buff-processed-image (1)_40: -7242483168911585745
+      sprite-buff-processed-image (1)_41: -5155167487024357179
+      sprite-buff-processed-image (1)_42: -3393687835933853032
+      sprite-buff-processed-image (1)_43: -2046126380730512374
+      sprite-buff-processed-image (1)_44: -5598895407216424842
+      sprite-buff-processed-image (1)_45: -749644816104675152
+      sprite-buff-processed-image (1)_46: -8595723426746738578
+      sprite-buff-processed-image (1)_47: -8373415241504201134
+      sprite-buff-processed-image (1)_48: 3128856369929480704
+      sprite-buff-processed-image (1)_49: -1139638594112368862
+      sprite-buff-processed-image (1)_5: 2400054766686499431
+      sprite-buff-processed-image (1)_50: 7065827236285205694
+      sprite-buff-processed-image (1)_51: -1221310679987710810
+      sprite-buff-processed-image (1)_52: 9190632618035820162
+      sprite-buff-processed-image (1)_53: 498432880323195420
+      sprite-buff-processed-image (1)_54: -1950393903738883341
+      sprite-buff-processed-image (1)_55: 3786674168345898837
+      sprite-buff-processed-image (1)_56: -2415825076158873778
+      sprite-buff-processed-image (1)_57: 7978367056246746454
+      sprite-buff-processed-image (1)_58: 3124818698773032701
+      sprite-buff-processed-image (1)_59: -4489927179961496003
+      sprite-buff-processed-image (1)_6: -3471790828606548047
+      sprite-buff-processed-image (1)_60: 1689587579287835981
+      sprite-buff-processed-image (1)_61: -1677952391593679074
+      sprite-buff-processed-image (1)_62: -2526154397089754282
+      sprite-buff-processed-image (1)_63: 7858448929123602816
+      sprite-buff-processed-image (1)_64: 4966929200256704753
+      sprite-buff-processed-image (1)_65: 3871971182147908173
+      sprite-buff-processed-image (1)_66: -5319940102268017596
+      sprite-buff-processed-image (1)_67: 9124163864780892161
+      sprite-buff-processed-image (1)_68: -2728717917572101969
+      sprite-buff-processed-image (1)_69: 3088952275260314374
+      sprite-buff-processed-image (1)_7: -2514667738844160045
+      sprite-buff-processed-image (1)_70: -471141266627250931
+      sprite-buff-processed-image (1)_71: -6934931334380604774
+      sprite-buff-processed-image (1)_72: -7868500181023931459
+      sprite-buff-processed-image (1)_73: 2259956045858686912
+      sprite-buff-processed-image (1)_74: 3010219111540323215
+      sprite-buff-processed-image (1)_75: -495965710508069448
+      sprite-buff-processed-image (1)_76: -4963913021684360020
+      sprite-buff-processed-image (1)_77: -7053910280243950903
+      sprite-buff-processed-image (1)_78: 1775969897871288541
+      sprite-buff-processed-image (1)_79: 5398799048598443762
+      sprite-buff-processed-image (1)_8: 5762875951215991009
+      sprite-buff-processed-image (1)_80: 2061104171069531690
+      sprite-buff-processed-image (1)_81: 5709449446372524983
+      sprite-buff-processed-image (1)_82: -3525818753066198027
+      sprite-buff-processed-image (1)_83: 4142414503847820777
+      sprite-buff-processed-image (1)_84: -4689219554136475330
+      sprite-buff-processed-image (1)_85: 2859317325801328155
+      sprite-buff-processed-image (1)_86: -4077605633306387416
+      sprite-buff-processed-image (1)_87: -7987492318801374541
+      sprite-buff-processed-image (1)_88: 5624267165415183352
+      sprite-buff-processed-image (1)_89: -6020848656997510132
+      sprite-buff-processed-image (1)_9: 3483958277579534222
+      sprite-buff-processed-image (1)_90: -2046597042658771169
+      sprite-buff-processed-image (1)_91: 3713778194405746239
+      sprite-buff-processed-image (1)_92: -3816440728780644590
+      sprite-buff-processed-image (1)_93: -3143554691974387564
+      sprite-buff-processed-image (1)_94: 6187363564242572848
+      sprite-buff-processed-image (1)_95: 8805375635289992995
+      sprite-buff-processed-image (1)_96: 2815034643526998528
+      sprite-buff-processed-image (1)_97: -6388507730442287110
+      sprite-buff-processed-image (1)_98: 3839772822721684569
+      sprite-buff-processed-image (1)_99: 4787561665039688408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
