@@ -64,7 +64,7 @@ public class GameManager : MonoBehaviour
 
 
 		//Debug.Log("In update!");
-		if (gameStarted)
+		if (gameStarted && !gameEnded)
 		{
 			timeUntilNextObstacle -= Time.deltaTime * currentSpeed;
 			Debug.Log(string.Format("timeUntilNextObstacle before: {0}", timeUntilNextObstacle));

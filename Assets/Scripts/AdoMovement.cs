@@ -15,32 +15,38 @@ public class AdoMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Inputs
         bool isJumpButtonPressed = Input.GetKey(KeyCode.Space) || Input.GetKey(KeyCode.UpArrow) ||  Input.GetKey(KeyCode.W);
         bool isCrouchButtonPressed = Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.S);
 
-        if (isJumpButtonPressed)
+        if(!_isDead)
         {
-            if (_isGameStarted && _isTouchingGround)
+            if (isJumpButtonPressed)
             {
-                //Jump
-                Jump();
-                Debug.Log("Jump");
+                if (_isGameStarted && _isTouchingGround)
+                {
+                    //Jump
+                    Jump();
+                    Debug.Log("Jump");
+                }
+                else
+                {
+                    _isGameStarted = true;
+                    
+                    GameManager.Instance.gameStarted = true;
+                }
             }
-            else
-            {
-                _isGameStarted = true;
+        } else if(_isDead)
+        {
+            rb.constraints = RigidbodyConstraints2D.FreezePositionY;
+            rb.position = new Vector2(-6.0f, -4.245642f);
+            transform.rotation = Quaternion.identity;
+        }
                 
-                GameManager.Instance.gameStarted = true;
-            }
-        }
-        else if (isCrouchButtonPressed && _isTouchingGround)
-        {
-            //crouching
-            _isDead = true;
-        }
-        
+        //animate
         adoAnimator.SetBool("StartedGame", _isGameStarted);
         adoAnimator.SetBool("IsCrouching", isCrouchButtonPressed && _isTouchingGround && !isJumpButtonPressed);
+        adoAnimator.SetBool("IsDead", _isDead);
         
     }
 
@@ -51,15 +57,16 @@ public class AdoMovement : MonoBehaviour
             _isTouchingGround = true;
             Debug.Log("touching floor");
         }
-        else if (other.gameObject.CompareTa("Enemy"))
+        else if (other.gameObject.CompareTag("Enemy"))
         {
             // Die
-
+            _isDead = true;
+            GameManager.Instance.gameEnded = true;
         }
     }
     
     void Jump()
-    {
+    { 
         rb.AddForce(Vector2.up * jumpForce);
         _isTouchingGround = false;
     }
