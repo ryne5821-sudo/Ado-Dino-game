@@ -62,6 +62,8 @@ public class AdoMovement : MonoBehaviour
             // Die
             _isDead = true;
             GameManager.Instance.gameEnded = true;
+
+            GameManager.Instance.ShowGameEndScreen();
         }
     }
     

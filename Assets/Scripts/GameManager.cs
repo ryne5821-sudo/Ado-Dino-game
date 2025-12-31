@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -18,7 +19,8 @@ public class GameManager : MonoBehaviour
 	public float speedIncreasePerSecond = 0.1f;
 	public float currentScoreIncreaseSpeed = 2f;
 
-	[Header("Text")] public TextMeshProUGUI scoreText;
+	[Header("UI")] public TextMeshProUGUI scoreText;
+	public GameObject gameEndScreen;
 
 	[Header("Obstacle Spawn")] public float minTimeDelayBetweenObstacle = 1f;
 	public float maxTimeDelayBetweenObstacle = 5;
@@ -54,6 +56,11 @@ public class GameManager : MonoBehaviour
 		UpdateScoreUI();
 	}
 
+	public void ShowGameEndScreen()
+	{
+		gameEndScreen.SetActive(true);
+	}
+
 	private void Update()
 	{
 		//if (!debugging)
@@ -61,7 +68,7 @@ public class GameManager : MonoBehaviour
 		//	debugging = true;
 		//	System.Diagnostics.Debugger.Break();
 		//}
-
+		
 
 		//Debug.Log("In update!");
 		if (gameStarted && !gameEnded)
@@ -120,6 +127,12 @@ public class GameManager : MonoBehaviour
 			PlayerPrefs.SetInt("HighScore", highScore);
 			UpdateScoreUI();
 		}
+	}
+
+	public void resetScene()
+	{
+		Debug.Log("Pressed Reset");
+		SceneManager.LoadScene(0);
 	}
 
 	private void UpdateScoreUI()
