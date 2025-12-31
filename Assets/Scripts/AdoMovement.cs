@@ -9,6 +9,8 @@ public class AdoMovement : MonoBehaviour
     private bool _isGameStarted = false;
     
     private bool _isTouchingGround = false;
+
+    private bool _isDead = false;
     
     // Update is called once per frame
     void Update()
@@ -34,6 +36,7 @@ public class AdoMovement : MonoBehaviour
         else if (isCrouchButtonPressed && _isTouchingGround)
         {
             //crouching
+            _isDead = true;
         }
         
         adoAnimator.SetBool("StartedGame", _isGameStarted);
@@ -47,6 +50,11 @@ public class AdoMovement : MonoBehaviour
         {
             _isTouchingGround = true;
             Debug.Log("touching floor");
+        }
+        else if (other.gameObject.CompareTa("Enemy"))
+        {
+            // Die
+
         }
     }
     

@@ -639,7 +639,7 @@ Transform:
   m_GameObject: {fileID: 826787062}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15.24, y: -3.6, z: 0}
+  m_LocalPosition: {x: 15.24, y: -3.88, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -711,13 +711,14 @@ MonoBehaviour:
   speedIncreasePerSecond: 0.01
   currentScoreIncreaseSpeed: 10
   scoreText: {fileID: 71473137}
-  minTimeDelayBetweenObstacle: 2
+  minTimeDelayBetweenObstacle: 1
   maxTimeDelayBetweenObstacle: 5
-  obstacleSpeedMultiplier: 28.5
+  obstacleSpeedMultiplier: 30
   allGroundObstacles:
   - {fileID: 8721797740386309474, guid: c340cba9db5387046bee20a30206beb0, type: 3}
   - {fileID: 4820965246624037832, guid: c202b4a9361829a4e92892a398119bb2, type: 3}
   - {fileID: 9038343979234849454, guid: b27b1d7c34cc48445ba3343833c6b0c0, type: 3}
+  - {fileID: 3040029278916803684, guid: 3987fc42fc10cd341941a4ca135b28aa, type: 3}
   allFlyingObstacles:
   - {fileID: 1987035368588627015, guid: ce6562d5d61ee184bafeeb9a3a257cca, type: 3}
   groundObstacleSpawnPoint: {fileID: 1467067545}
@@ -952,7 +953,7 @@ Transform:
   m_GameObject: {fileID: 2116702019}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.11, y: -3.72, z: 0}
+  m_LocalPosition: {x: -8.72, y: -3.78, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -983,8 +984,8 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 1
-  m_Constraints: 5
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!61 &2116702024
 BoxCollider2D:
   m_ObjectHideFlags: 0
