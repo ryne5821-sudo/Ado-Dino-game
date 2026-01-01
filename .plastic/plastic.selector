@@ -1,4 +1,0 @@
-repository "Ado Dinosaur Game/Ado Dinosaur Game@1374969825715@cloud"
-  path "/"
-    br "/main"
-    co "/main"
