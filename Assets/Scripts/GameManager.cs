@@ -31,6 +31,9 @@ public class GameManager : MonoBehaviour
 	[Space]
 	public Transform groundObstacleSpawnPoint;
 	public Transform flyingObstacleSpawnPoint;
+	[Header("Audio")]
+	public AudioSource audioSource;
+	public AudioClip pointSFX;
 
 	private List<GameObject> allCurrentObstacles = new List<GameObject>();
 
@@ -117,7 +120,15 @@ public class GameManager : MonoBehaviour
 
 			floorMeshRenderer.material.mainTextureOffset += new Vector2(currentSpeed * Time.deltaTime, 0);
 
+			int lastCurrentScore = Mathf.RoundToInt(currentScore);
+
 			currentScore += Time.deltaTime * currentSpeed * currentScoreIncreaseSpeed;
+
+			if (Mathf.RoundToInt(currentScore) > lastCurrentScore && Mathf.RoundToInt(currentScore) % 1000 == 0)
+			{
+				audioSource.clip = pointSFX;
+        		audioSource.Play();
+			}
 
 			if (Mathf.RoundToInt(currentScore) > highScore)
 			{

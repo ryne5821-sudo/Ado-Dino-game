@@ -5,7 +5,12 @@ public class AdoMovement : MonoBehaviour
     [SerializeField] private Animator adoAnimator;
     [SerializeField] private float jumpForce;
     [SerializeField] private Rigidbody2D rb; 
-    
+
+    [Header("Audio")]
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip jumpGyaru;
+    [SerializeField] private AudioClip deathSFX;
+
     private bool _isGameStarted = false;
     
     private bool _isTouchingGround = false;
@@ -64,6 +69,9 @@ public class AdoMovement : MonoBehaviour
             GameManager.Instance.gameEnded = true;
 
             GameManager.Instance.ShowGameEndScreen();
+
+            audioSource.clip = deathSFX;
+            audioSource.Play();
         }
     }
     
@@ -71,5 +79,8 @@ public class AdoMovement : MonoBehaviour
     { 
         rb.AddForce(Vector2.up * jumpForce);
         _isTouchingGround = false;
+
+        audioSource.clip = jumpGyaru;
+        audioSource.Play();
     }
 }
